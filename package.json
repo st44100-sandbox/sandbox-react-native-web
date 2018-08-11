@@ -1,0 +1,24 @@
+{
+  "name": "sandbox-react-native-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-art": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-native-web": "^0.8.9"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-module-resolver": "^3.1.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-native": "^4.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-serve": "^2.0.2"
+  }
+}
